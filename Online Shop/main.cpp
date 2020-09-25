@@ -52,7 +52,7 @@ void priceRangeInputValidation(double& lowerInput, double& upperInput, double lo
 void printMainMenu()
 {
 	system("CLS");
-	cout << "Welcome " << KoseBoseShop.getUser()->getUsername() << " to KoseBose Online Shop.\nHave a great day. :)\n";
+	cout << "Welcome " << KoseBoseShop.getUser()->getUsername() << " to KoseBose Online Shop.\n";
 	cout << "\nCategories:";
 	cout << "\n--------------------------------------------------------\n";
 	cout << "\n1) Clothes\n2) Food\n3) Tech\n4) All categories\n\n5) Search by price range\n6) Search by keyword\n\n7) Create new product (ONLY FOR ADMIN)\n\n8) Log out\n\n";
