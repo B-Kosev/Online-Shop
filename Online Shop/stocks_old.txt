@@ -1,0 +1,20 @@
+Jeans Clothes 1 101 50 0 29.99  Blue, for men, size M
+Jeans Clothes 1 102 95 0 59.99  Gray, for women, size L
+Shirt Clothes 1 103 50 0 26.99  White shirt for men with black stripes, size M
+Shirt Clothes 1 104 40 0 19.99  Red shirt for women, size S
+T-Shirt Clothes 1 105 60 0 15.99  Size L, for men
+T-Shirt Clothes 1 106 69 0 9.99  Size S, for men
+Steak Food 2 201 10 0 2.99  Raw
+Pizza Food 2 202 5 0 8.99  Pineapple, chicken
+Pizza Food 2 203 5 0 9.99  Pineapple, chicken, cheese
+Duner Food 2 204 5 0 3.5  Medium size
+Duner Food 2 205 5 0 4.5  Large size
+Cake Food 2 206 10 0 29.99  Chocolate, for special occasions
+Laptop Tech 3 301 10 0 1685  Very powerfull laptop Lenovo L340 with Intel Core I7 9750H and Nvidia GTX 1650
+Laptop Tech 3 302 99 0 1850.99  Lenovo Legion Y540 with I7 9750 and GTX 1660ti
+Smartwatch Tech 3 303 250 0 250  Xiaomi Smartwatch
+Smartphone Tech 3 304 100 0 485.59  Xiaomi Redmi Note 7
+Smartphone Tech 3 305 150 0 500.09  Samsung Galaxy s98
+Smartphone Tech 3 306 44 0 999.99  Iphone 23 Pro Max
+Computer Tech 3 307 90 0 1199.99  Powerful gaming computer with Intel Core I3 2100 and Nvidia GTX 360 and 512MB RAM
+Satelite Tech 3 308 4 0 30900  Elon Musk satelite for home use

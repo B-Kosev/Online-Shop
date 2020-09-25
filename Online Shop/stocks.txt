@@ -1,0 +1,21 @@
+1 Jeans 101 50 0 29.99 40 Blue, for men
+1 Jeans 102 95 0 59.99 40 Gray, for women
+1 Shirt 103 50 0 26.99 60 White shirt for men with black stripes
+1 Shirt 104 38 2 19.99 50 Red shirt for women, size S
+1 T-Shirt 105 60 0 15.99 55 For men
+1 T-Shirt 106 69 0 9.99 45 For men
+2 Steak 201 10 0 2.99 10 Raw
+2 Pizza 202 5 0 8.99 12 Pineapple, chicken
+2 Pizza 203 5 0 9.99 11 Pineapple, chicken, cheese
+2 Duner 204 5 0 3.5 10 Medium size
+2 Duner 205 5 0 4.5 13 Large size
+2 Cake 206 10 0 29.99 14 Chocolate, for special occasions
+3 Laptop 301 10 0 1685 24 Very powerfull laptop Lenovo L340 with Intel Core I7 9750H and Nvidia GTX 1650
+3 Laptop 302 99 0 1850.99 24 Lenovo Legion Y540 with I7 9750 and GTX 1660ti
+3 Smartwatch 303 250 0 250 24 Xiaomi Smartwatch
+3 Smartphone 304 100 0 485.59 24 Xiaomi Redmi Note 7
+3 Smartphone 305 150 0 500.09 24 Samsung Galaxy s98
+3 Smartphone 306 44 0 999.99 24 Iphone 23 Pro Max
+3 Computer 307 86 1 1199.99 24 Powerful gaming computer with Intel Core I3 2100 and Nvidia GTX 360 and 512MB RAM
+3 Satelite 308 4 0 30900 24 Elon Musk satelite for home use
+3 TV 309 499 1 1499.29 24 4K 65" TV
