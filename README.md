@@ -1,4 +1,4 @@
-# Online-Shop
+# Online Shop
 ## Online Shop Homework project for OOP, Year 1, Software Engineering @ Sofia University
 
 ***
