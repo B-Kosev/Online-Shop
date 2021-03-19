@@ -1,18 +1,18 @@
 # Online-Shop
-Online Shop Homework project for OOP, Year 1, Software Engineering @ Sofia University
+## Online Shop Homework project for OOP, Year 1, Software Engineering @ Sofia University
 
----------------------------------
+***
 
-v1.0 - HW 1
+**v1.0 - HW 1**
 - login/register feature
 - registered users stored in .txt file
 - products stored in .txt file
 - added basic UI
 - added basic functionality (unfortunately I can't remember with details)
 
----------------------------------
+***
 
-v1.1 - HW 2
+**v1.1 - HW 2**
 
 - static char arrays in classes changed to dynamic
 - added destructors
@@ -26,9 +26,9 @@ v1.1 - HW 2
 - changes of products amount saved to file after every program execution
 - added log out feature
 
----------------------------------
+***
 
-v1.2 - HW 3
+**v1.2 - HW 3**
 
 - added own string class
 - replaced all char* with string
@@ -38,9 +38,9 @@ v1.2 - HW 3
 - removed operator=, destructor and copy constructor from class account and class stock
 - added sort() to class Vector
 
----------------------------------
+***
 
-v1.3 - HW 4
+**v1.3 - HW 4**
 
 - replaced MyString with stl string
 - replaced MyVector with stl vector
